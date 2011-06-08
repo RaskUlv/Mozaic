@@ -1,0 +1,5 @@
+Just run script in your terminal:
+
+* python /path/to/script.py 
+* ruby /path/to/script.rb
+* bash /path/to/script.sh
